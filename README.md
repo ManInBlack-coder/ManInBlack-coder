@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ManInBlack-coder
 - 👀 I’m interested in software engineering and web developement.
-- 🌱 I’m currently learning Web disaining and engineering.
+- 🌱 I’m currently studying at Tartu Vocational College.
 - 📫 How to reach me: potasenkovaleksander@gmail.com
 
 <!---
